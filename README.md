@@ -180,6 +180,37 @@ the model and view.
 For more details on the implementation and usage of these components, please refer to the source
 code and documentation provided with the project.
 
+## Screenshots
+
+- Sepia Preview Operation
+![Sepia Preview](https://github.com/dongrep/image-editor-showcase/blob/main/ImageEditorFeatures/sepia-preview.jpg?raw=true)
+
+- Color Correct Operation
+![Color Correct](https://github.com/dongrep/image-editor-showcase/blob/main/ImageEditorFeatures/color-correct.jpg?raw=true)
+
+- Greyscale Operation
+![Greyscale](https://github.com/dongrep/image-editor-showcase/blob/main/ImageEditorFeatures/greysclale-preview.jpg?raw=true)
+
+- Adjust Levels Operation
+![Greyscale](https://github.com/dongrep/image-editor-showcase/blob/main/ImageEditorFeatures/adjust-levels.jpg?raw=true)
+
+
+- Horizontal Flip, Vertical Flip
+![Vertical](https://github.com/dongrep/image-editor-showcase/blob/main/ImageEditorFeatures/vertical-flip.jpg?raw=true)
+![Horizontal](https://github.com/dongrep/image-editor-showcase/blob/main/ImageEditorFeatures/horizontal-flip.jpg?raw=true)
+
+- Color Components
+![Red](https://github.com/dongrep/image-editor-showcase/blob/main/ImageEditorFeatures/red.jpg?raw=true)
+![Green](https://github.com/dongrep/image-editor-showcase/blob/main/ImageEditorFeatures/green.jpg?raw=true)
+![Blue](https://github.com/dongrep/image-editor-showcase/blob/main/ImageEditorFeatures/blue.jpg?raw=true)
+
+- Blur, Sharpen
+![Blur](https://github.com/dongrep/image-editor-showcase/blob/main/ImageEditorFeatures/bllur.jpg?raw=true)
+![Sharpen](https://github.com/dongrep/image-editor-showcase/blob/main/ImageEditorFeatures/sharpen.jpg?raw=true)
+
+- Compress
+![Compress](https://github.com/dongrep/image-editor-showcase/blob/main/ImageEditorFeatures/compress.jpg?raw=true)
+
 ## License
 
 1. Small_4x3.ppm. Self generated image using GIMP 
@@ -189,3 +220,4 @@ code and documentation provided with the project.
 https://northeastern.instructure.com/courses/157051/assignments/1965696 [Assignment 5 Description]
 5. Manhattan-small.png. Retrieved from 
 https://northeastern.instructure.com/courses/157051/assignments/1965696 [Assignment 5 Description]
+
